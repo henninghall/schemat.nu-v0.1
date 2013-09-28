@@ -5440,6 +5440,13 @@ legend
 {
 	display: none!important;
 }
+
+
+
+
+
+
+/* 
 @media(max-width:1024px),(max-device-width:1024px)
 {
 	.restable .columnLine,.restable .columnHeaders td
@@ -5729,7 +5736,7 @@ legend
 
 
 
-
+*/ 
 
 
 

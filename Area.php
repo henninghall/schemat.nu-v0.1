@@ -90,7 +90,7 @@ class Area{
 	
 	public function printHeader(){
 		if(!empty($this->currentLinks)) {
-		echo "<strong>".$this->title."</strong><br />";		
+		echo "<h4>".$this->title."</h4>";		
 		}
 	}
 }

@@ -1,665 +1,5 @@
 <div id="contents" data-hourwidth="24">
-		<div class="weekContainer"><div class="weekDay" style="z-index: 779">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Måndag&nbsp;9/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130909" style="height: 780px;">
-        
-<div style="top: 16px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="92019" onclick="openRes('92019', this,'','&step=0')" title=" 2013-09-09 08:15 - 10:00 TDDD70, C1, Föreläsning, Aseel Berglund, D1, U1 ID 92019"><div class="c ">TDDD70</div><div class="c ">C1</div><div class="c ">Föreläsning</div><div class="c ">Aseel Berglund</div><div class="c ">D1<br>U1</div>
-
-
-</div>
-          <div style="top: 115px; left: 102px;" class="timeDiv">10:00</div><div style="top: 10px; left: 3px;" class="timeDiv">08:15</div> 
-        
-<div style="top: 136px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="56083" onclick="openRes('56083', this,'','&step=0')" title=" 2013-09-09 10:15 - 12:00 TDDC66, A1, Föreläsning, Peter Dalenius, D1, U1 ID 56083"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">A1</div><div class="c ">Föreläsning</div><div class="c ">Peter Dalenius</div><div class="c ">D1<br>U1</div>
-
-
-</div>
-          <div style="top: 235px; left: 102px;" class="timeDiv">12:00</div><div style="top: 130px; left: 3px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 316px; left: 0px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76179" onclick="openRes('76179', this,'','&step=0')" title=" 2013-09-09 13:15 - 15:00 TDDC66, SU01, Laboration, D1.a, Grupp 3 ID 76179"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU01</div><div class="c ">Laboration</div><div class="c ">D1.a</div><div class="c ">Grupp 3</div>
-
-
-</div>
-           
-        
-<div style="top: 316px; left: 26px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76203" onclick="openRes('76203', this,'','&step=0')" title=" 2013-09-09 13:15 - 15:00 TDDC66, SU02, Laboration, Peter Larsson Green, D1.b, Grupp 1 ID 76203"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU02</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 1</div>
-
-
-</div>
-           
-        
-<div style="top: 316px; left: 52px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76235" onclick="openRes('76235', this,'','&step=0')" title=" 2013-09-09 13:15 - 15:00 TDDC66, SU03, Laboration, Torbjörn Lönnemark, D1.b, Grupp 3 ID 76235"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU03</div><div class="c ">Laboration</div><div class="c ">Torbjörn Lönnemark</div><div class="c ">D1.b</div><div class="c ">Grupp 3</div>
-
-
-</div>
-           
-        
-<div style="top: 316px; left: 78px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76296" onclick="openRes('76296', this,'','&step=0')" title=" 2013-09-09 13:15 - 15:00 TDDC66, SU10, Laboration, Jonas Wallgren, D1.c, Grupp 1 ID 76296"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU10</div><div class="c ">Laboration</div><div class="c ">Jonas Wallgren</div><div class="c ">D1.c</div><div class="c ">Grupp 1</div>
-
-
-</div>
-           
-        
-<div style="top: 316px; left: 104px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76342" onclick="openRes('76342', this,'','&step=0')" title=" 2013-09-09 13:15 - 15:00 TDDC66, SU11, Laboration, D1.c, Grupp 3 ID 76342"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU11</div><div class="c ">Laboration</div><div class="c ">D1.c</div><div class="c ">Grupp 3</div>
-
-
-</div>
-           
-        
-<div style="top: 436px; left: 0px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="80642" onclick="openRes('80642', this,'','&step=0')" title=" 2013-09-09 15:15 - 17:00 TATA65, U7, Lektion, Armen Asratian, D1.c ID 80642"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">U7</div><div class="c ">Lektion</div><div class="c ">Armen Asratian</div><div class="c ">D1.c</div>
-
-
-</div>
-          <div style="top: 535px; left: 37px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
-        
-<div style="top: 436px; left: 65px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="98960" onclick="openRes('98960', this,'','&step=0')" title=" 2013-09-09 15:15 - 17:00 TATA65, S35, Mentorsmöte, D1.b, Grupp B ID 98960"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">S35</div><div class="c ">Mentorsmöte</div><div class="c ">D1.b</div><div class="c ">Grupp B</div>
-
-
-</div>
-          <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 68px;" class="timeDiv">15:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 778">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Tisdag&nbsp;10/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130910" style="height: 780px;">
-        
-<div style="top: 16px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="76128" onclick="openRes('76128', this,'','&step=0')" title=" 2013-09-10 08:15 - 10:00 TDDC66, SU04, SU06, Laboration, Anders Märak Leffler, D1.a, Grupp 1 ID 76128"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU04<br>SU06</div><div class="c ">Laboration</div><div class="c ">Anders Märak Leffler</div><div class="c ">D1.a</div><div class="c ">Grupp 1</div>
-
-
-</div>
-          <div style="top: 115px; left: 102px;" class="timeDiv">10:00</div><div style="top: 10px; left: 3px;" class="timeDiv">08:15</div> 
-        
-<div style="top: 136px; left: 0px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76133" onclick="openRes('76133', this,'','&step=0')" title=" 2013-09-10 10:15 - 12:00 TDDC66, SU00, Laboration, Anders Märak Leffler, D1.a, Grupp 2 ID 76133"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU00</div><div class="c ">Laboration</div><div class="c ">Anders Märak Leffler</div><div class="c ">D1.a</div><div class="c ">Grupp 2</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 21px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76181" onclick="openRes('76181', this,'','&step=0')" title=" 2013-09-10 10:15 - 12:00 TDDC66, SU01, Laboration, D1.a, Grupp 4 ID 76181"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU01</div><div class="c ">Laboration</div><div class="c ">D1.a</div><div class="c ">Grupp 4</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 42px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76205" onclick="openRes('76205', this,'','&step=0')" title=" 2013-09-10 10:15 - 12:00 TDDC66, SU02, Laboration, Peter Larsson Green, D1.b, Grupp 2 ID 76205"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU02</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 2</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 63px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76236" onclick="openRes('76236', this,'','&step=0')" title=" 2013-09-10 10:15 - 12:00 TDDC66, SU03, Laboration, Torbjörn Lönnemark, D1.b, Grupp 4 ID 76236"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU03</div><div class="c ">Laboration</div><div class="c ">Torbjörn Lönnemark</div><div class="c ">D1.b</div><div class="c ">Grupp 4</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 84px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76298" onclick="openRes('76298', this,'','&step=0')" title=" 2013-09-10 10:15 - 12:00 TDDC66, SU10, Laboration, Jonas Wallgren, D1.c, Grupp 2 ID 76298"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU10</div><div class="c ">Laboration</div><div class="c ">Jonas Wallgren</div><div class="c ">D1.c</div><div class="c ">Grupp 2</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 105px; width: 21px; height: 97px;" class="bookingDiv clickable" data-id="76346" onclick="openRes('76346', this,'','&step=0')" title=" 2013-09-10 10:15 - 12:00 TDDC66, SU11, Laboration, D1.c, Grupp 4 ID 76346"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU11</div><div class="c ">Laboration</div><div class="c ">D1.c</div><div class="c ">Grupp 4</div>
-
-
-</div>
-           
-        
-<div style="top: 256px; left: 0px; width: 126px; height: 37px;" class="bookingDiv clickable" data-id="69103" onclick="openRes('69103', this,'','&step=0')" title=" 2013-09-10 12:15 - 13:00 C4, D1, IT1, U1 ID 69103"><div class="c ">C4</div><div class="c ">D1<br>IT1<br>U1</div>
-
-
-</div>
-          <div style="top: 295px; left: 102px;" class="timeDiv">13:00</div><div style="top: 250px; left: 3px;" class="timeDiv">12:15</div> 
-        
-<div style="top: 316px; left: 0px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="80428" onclick="openRes('80428', this,'','&step=0')" title=" 2013-09-10 13:15 - 15:00 TATA65, P18, Lektion, Armen Asratian, D1.a ID 80428"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">P18</div><div class="c ">Lektion</div><div class="c ">Armen Asratian</div><div class="c ">D1.a</div>
-
-
-</div>
-          <div style="top: 415px; left: 37px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
-        
-<div style="top: 316px; left: 65px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="80575" onclick="openRes('80575', this,'','&step=0')" title=" 2013-09-10 13:15 - 15:00 9MGA11, TATA65, P22, Lektion, Danyo Danev, D1.b, GRU5 ID 80575"><div class="c ">9MGA11<br>TATA65</div><div class="c ">P22</div><div class="c ">Lektion</div><div class="c ">Danyo Danev</div><div class="c ">D1.b<br>GRU5</div>
-
-
-</div>
-          <div style="top: 415px; left: 102px;" class="timeDiv">15:00</div><div style="top: 310px; left: 68px;" class="timeDiv">13:15</div> 
-        
-<div style="top: 436px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="56857" onclick="openRes('56857', this,'','&step=0')" title=" 2013-09-10 15:15 - 17:00 9MGA11, TATA65, C1, Föreläsning, Jesper Thorén, D1, U1, GRU5 ID 56857"><div class="c ">9MGA11<br>TATA65</div><div class="c ">C1</div><div class="c ">Föreläsning</div><div class="c ">Jesper Thorén</div><div class="c ">D1<br>U1<br>GRU5</div>
-
-
-</div>
-          <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 777">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Onsdag&nbsp;11/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130911" style="height: 780px;">
-        
-<div style="top: 316px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="84635" onclick="openRes('84635', this,'','&step=0')" title=" 2013-09-11 13:15 - 15:00 TATA65, R42, Lektion, Armen Asratian, D1.c ID 84635"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">R42</div><div class="c ">Lektion</div><div class="c ">Armen Asratian</div><div class="c ">D1.c</div>
-
-
-</div>
-          <div style="top: 415px; left: 102px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 776">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Torsdag&nbsp;12/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130912" style="height: 780px;">
-        
-<div style="top: 16px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="93414" onclick="openRes('93414', this,'','&step=0')" title=" 2013-09-12 08:15 - 10:00 TATA65, T15, Mentorsmöte, D1.a, Grupp B ID 93414"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">T15</div><div class="c ">Mentorsmöte</div><div class="c ">D1.a</div><div class="c ">Grupp B</div>
-
-
-</div>
-          <div style="top: 115px; left: 102px;" class="timeDiv">10:00</div><div style="top: 10px; left: 3px;" class="timeDiv">08:15</div> 
-        
-<div style="top: 136px; left: 0px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="80330" onclick="openRes('80330', this,'','&step=0')" title=" 2013-09-12 10:15 - 12:00 TATA65, R42, Lektion, Armen Asratian, D1.a ID 80330"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">R42</div><div class="c ">Lektion</div><div class="c ">Armen Asratian</div><div class="c ">D1.a</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 26px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="93423" onclick="openRes('93423', this,'','&step=0')" title=" 2013-09-12 10:15 - 12:00 TATA65, R19, Mentorsmöte, D1.b, Grupp A ID 93423"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">R19</div><div class="c ">Mentorsmöte</div><div class="c ">D1.b</div><div class="c ">Grupp A</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 52px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="93432" onclick="openRes('93432', this,'','&step=0')" title=" 2013-09-12 10:15 - 12:00 TATA65, R23, Mentorsmöte, D1.b, Grupp B ID 93432"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">R23</div><div class="c ">Mentorsmöte</div><div class="c ">D1.b</div><div class="c ">Grupp B</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 78px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="93440" onclick="openRes('93440', this,'','&step=0')" title=" 2013-09-12 10:15 - 12:00 TATA65, R26, Mentorsmöte, D1.c, Grupp A ID 93440"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">R26</div><div class="c ">Mentorsmöte</div><div class="c ">D1.c</div><div class="c ">Grupp A</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 104px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="93448" onclick="openRes('93448', this,'','&step=0')" title=" 2013-09-12 10:15 - 12:00 TATA65, R27, Mentorsmöte, D1.c, Grupp B ID 93448"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">R27</div><div class="c ">Mentorsmöte</div><div class="c ">D1.c</div><div class="c ">Grupp B</div>
-
-
-</div>
-           
-        
-<div style="top: 316px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="56194" onclick="openRes('56194', this,'','&step=0')" title=" 2013-09-12 13:15 - 15:00 TDDD70, KEY1, Se kommentar, Inger Erlander Klein, Jesper Thorén, Patrick Doherty, Peter Dalenius, Siv Söderlund, Tomas Svensson, Aseel Berglund, D1, Vad innebär D? ID 56194"><div class="c ">TDDD70</div><div class="c ">KEY1</div><div class="c ">Se kommentar</div><div class="c ">Inger Erlander Klein<br>Jesper Thorén<br>Patrick Doherty<br>Peter Dalenius<br>Siv Söderlund<br>Tomas Svensson<br>Aseel Berglund</div><div class="c ">D1</div><div class="c ">Vad innebär D?</div>
-
-
-</div>
-          <div style="top: 415px; left: 102px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
-        
-<div style="top: 436px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="68722" onclick="openRes('68722', this,'','&step=0')" title=" 2013-09-12 15:15 - 17:00 TDDD63, C2, Föreläsning, Patrick Doherty, D1, U1 ID 68722"><div class="c "><a href="http://www.ida.liu.se/~TDDD63/exam/index.sv.shtml" target="_blank">TDDD63</a></div><div class="c ">C2</div><div class="c ">Föreläsning</div><div class="c ">Patrick Doherty</div><div class="c ">D1<br>U1</div>
-
-
-</div>
-          <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 775">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Fredag&nbsp;13/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130913" style="height: 780px;">
-        
-<div style="top: 16px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="71100" onclick="openRes('71100', this,'','&step=0')" title=" 2013-09-13 08:15 - 10:00 TDDD63, C2, Föreläsning, Patrick Doherty, D1, U1 ID 71100"><div class="c "><a href="http://www.ida.liu.se/~TDDD63/exam/index.sv.shtml" target="_blank">TDDD63</a></div><div class="c ">C2</div><div class="c ">Föreläsning</div><div class="c ">Patrick Doherty</div><div class="c ">D1<br>U1</div>
-
-
-</div>
-          <div style="top: 115px; left: 102px;" class="timeDiv">10:00</div><div style="top: 10px; left: 3px;" class="timeDiv">08:15</div> 
-        
-<div style="top: 136px; left: 0px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="76141" onclick="openRes('76141', this,'','&step=0')" title=" 2013-09-13 10:15 - 12:00 TDDC66, SU00-01, Laboration, Anders Märak Leffler, D1.a, Grupp 1 ID 76141"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU00-01</div><div class="c ">Laboration</div><div class="c ">Anders Märak Leffler</div><div class="c ">D1.a</div><div class="c ">Grupp 1</div>
-
-
-</div>
-          <div style="top: 235px; left: 37px;" class="timeDiv">12:00</div><div style="top: 130px; left: 3px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 136px; left: 65px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="96131" onclick="openRes('96131', this,'','&step=0')" title=" 2013-09-13 10:15 - 12:00 TATA65, S37, Mentorsmöte, D1.a, Grupp A ID 96131"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">S37</div><div class="c ">Mentorsmöte</div><div class="c ">D1.a</div><div class="c ">Grupp A</div>
-
-
-</div>
-          <div style="top: 235px; left: 102px;" class="timeDiv">12:00</div><div style="top: 130px; left: 68px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 316px; left: 0px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76183" onclick="openRes('76183', this,'','&step=0')" title=" 2013-09-13 13:15 - 15:00 TDDC66, SU16, Laboration, D1.a, Grupp 3 ID 76183"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU16</div><div class="c ">Laboration</div><div class="c ">D1.a</div><div class="c ">Grupp 3</div>
-
-
-</div>
-           
-        
-<div style="top: 316px; left: 26px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76208" onclick="openRes('76208', this,'','&step=0')" title=" 2013-09-13 13:15 - 15:00 TDDC66, SU17, Laboration, Peter Larsson Green, D1.b, Grupp 1 ID 76208"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU17</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 1</div>
-
-
-</div>
-           
-        
-<div style="top: 316px; left: 52px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76247" onclick="openRes('76247', this,'','&step=0')" title=" 2013-09-13 13:15 - 15:00 TDDC66, SU18, Laboration, Torbjörn Lönnemark, D1.b, Grupp 3 ID 76247"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU18</div><div class="c ">Laboration</div><div class="c ">Torbjörn Lönnemark</div><div class="c ">D1.b</div><div class="c ">Grupp 3</div>
-
-
-</div>
-           
-        
-<div style="top: 316px; left: 78px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76300" onclick="openRes('76300', this,'','&step=0')" title=" 2013-09-13 13:15 - 15:00 TDDC66, SU10, Laboration, Jonas Wallgren, D1.c, Grupp 1 ID 76300"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU10</div><div class="c ">Laboration</div><div class="c ">Jonas Wallgren</div><div class="c ">D1.c</div><div class="c ">Grupp 1</div>
-
-
-</div>
-           
-        
-<div style="top: 316px; left: 104px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76348" onclick="openRes('76348', this,'','&step=0')" title=" 2013-09-13 13:15 - 15:00 TDDC66, SU11, Laboration, D1.c, Grupp 3 ID 76348"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU11</div><div class="c ">Laboration</div><div class="c ">D1.c</div><div class="c ">Grupp 3</div>
-
-
-</div>
-           
-        
-<div style="top: 436px; left: 0px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76148" onclick="openRes('76148', this,'','&step=0')" title=" 2013-09-13 15:15 - 17:00 TDDC66, SU00, Laboration, Anders Märak Leffler, D1.a, Grupp 2 ID 76148"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU00</div><div class="c ">Laboration</div><div class="c ">Anders Märak Leffler</div><div class="c ">D1.a</div><div class="c ">Grupp 2</div>
-
-
-</div>
-           
-        
-<div style="top: 436px; left: 21px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76182" onclick="openRes('76182', this,'','&step=0')" title=" 2013-09-13 15:15 - 17:00 TDDC66, SU01, Laboration, D1.a, Grupp 4 ID 76182"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU01</div><div class="c ">Laboration</div><div class="c ">D1.a</div><div class="c ">Grupp 4</div>
-
-
-</div>
-           
-        
-<div style="top: 436px; left: 42px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76211" onclick="openRes('76211', this,'','&step=0')" title=" 2013-09-13 15:15 - 17:00 TDDC66, SU02, Laboration, Peter Larsson Green, D1.b, Grupp 2 ID 76211"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU02</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 2</div>
-
-
-</div>
-           
-        
-<div style="top: 436px; left: 63px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76238" onclick="openRes('76238', this,'','&step=0')" title=" 2013-09-13 15:15 - 17:00 TDDC66, SU03, Laboration, Torbjörn Lönnemark, D1.b, Grupp 4 ID 76238"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU03</div><div class="c ">Laboration</div><div class="c ">Torbjörn Lönnemark</div><div class="c ">D1.b</div><div class="c ">Grupp 4</div>
-
-
-</div>
-           
-        
-<div style="top: 436px; left: 84px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76299" onclick="openRes('76299', this,'','&step=0')" title=" 2013-09-13 15:15 - 17:00 TDDC66, SU10, Laboration, Jonas Wallgren, D1.c, Grupp 2 ID 76299"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU10</div><div class="c ">Laboration</div><div class="c ">Jonas Wallgren</div><div class="c ">D1.c</div><div class="c ">Grupp 2</div>
-
-
-</div>
-           
-        
-<div style="top: 436px; left: 105px; width: 21px; height: 97px;" class="bookingDiv clickable" data-id="76347" onclick="openRes('76347', this,'','&step=0')" title=" 2013-09-13 15:15 - 17:00 TDDC66, SU11, Laboration, D1.c, Grupp 4 ID 76347"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU11</div><div class="c ">Laboration</div><div class="c ">D1.c</div><div class="c ">Grupp 4</div>
-
-
-</div>
-           
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 774">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Lördag&nbsp;14/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130914" style="height: 780px;">
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 773">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader dateIsTodayHeader"><div class="headlinebottom2">Söndag&nbsp;15/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130915" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 772">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Måndag&nbsp;16/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130916" style="height: 780px;">
-        
-<div style="top: 16px; left: 0px; width: 39px; height: 97px;" class="bookingDiv clickable" data-id="76156" onclick="openRes('76156', this,'','&step=0')" title=" 2013-09-16 08:15 - 10:00 TDDC66, SU04, SU06, Laboration, Anders Märak Leffler, D1.a, Grupp 1 ID 76156"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU04<br>SU06</div><div class="c ">Laboration</div><div class="c ">Anders Märak Leffler</div><div class="c ">D1.a</div><div class="c ">Grupp 1</div>
-
-
-</div>
-          <div style="top: 115px; left: 15px;" class="timeDiv">10:00</div><div style="top: 10px; left: 3px;" class="timeDiv">08:15</div> 
-        
-<div style="top: 16px; left: 43px; width: 39px; height: 97px;" class="bookingDiv clickable" data-id="87157" onclick="openRes('87157', this,'','&step=0')" title=" 2013-09-16 08:15 - 10:00 9MGA11, TATA65, S10, Lektion, Danyo Danev, D1.b, GRU5 ID 87157"><div class="c ">9MGA11<br>TATA65</div><div class="c ">S10</div><div class="c ">Lektion</div><div class="c ">Danyo Danev</div><div class="c ">D1.b<br>GRU5</div>
-
-
-</div>
-          <div style="top: 115px; left: 58px;" class="timeDiv">10:00</div><div style="top: 10px; left: 46px;" class="timeDiv">08:15</div> 
-        
-<div style="top: 16px; left: 86px; width: 40px; height: 97px;" class="bookingDiv clickable" data-id="87159" onclick="openRes('87159', this,'','&step=0')" title=" 2013-09-16 08:15 - 10:00 TATA65, U14, Lektion, Armen Asratian, D1.c ID 87159"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">U14</div><div class="c ">Lektion</div><div class="c ">Armen Asratian</div><div class="c ">D1.c</div>
-
-
-</div>
-          <div style="top: 115px; left: 102px;" class="timeDiv">10:00</div><div style="top: 10px; left: 89px;" class="timeDiv">08:15</div> 
-        
-<div style="top: 136px; left: 0px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="80331" onclick="openRes('80331', this,'','&step=0')" title=" 2013-09-16 10:15 - 12:00 TATA65, R23, Lektion, Armen Asratian, D1.a ID 80331"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">R23</div><div class="c ">Lektion</div><div class="c ">Armen Asratian</div><div class="c ">D1.a</div>
-
-
-</div>
-          <div style="top: 235px; left: 37px;" class="timeDiv">12:00</div><div style="top: 130px; left: 3px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 136px; left: 65px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="115581" onclick="openRes('115581', this,'','&step=0')" title=" 2013-09-16 10:15 - 12:00 9MGA11, TATA65, S10, Lektion, Danyo Danev, D1.b, GRU5 ID 115581"><div class="c ">9MGA11<br>TATA65</div><div class="c ">S10</div><div class="c ">Lektion</div><div class="c ">Danyo Danev</div><div class="c ">D1.b<br>GRU5</div>
-
-
-</div>
-          <div style="top: 235px; left: 102px;" class="timeDiv">12:00</div><div style="top: 130px; left: 68px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 316px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="76151" onclick="openRes('76151', this,'','&step=0')" title=" 2013-09-16 13:15 - 15:00 TDDC66, C1, Föreläsning, Peter Dalenius, D1, U1 ID 76151"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">C1</div><div class="c ">Föreläsning</div><div class="c ">Peter Dalenius</div><div class="c ">D1<br>U1</div>
-
-
-</div>
-          <div style="top: 415px; left: 102px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
-        
-<div style="top: 436px; left: 0px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76185" onclick="openRes('76185', this,'','&step=0')" title=" 2013-09-16 15:15 - 17:00 TDDC66, SU01, Laboration, D1.a, Grupp 3 ID 76185"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU01</div><div class="c ">Laboration</div><div class="c ">D1.a</div><div class="c ">Grupp 3</div>
-
-
-</div>
-           
-        
-<div style="top: 436px; left: 26px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76218" onclick="openRes('76218', this,'','&step=0')" title=" 2013-09-16 15:15 - 17:00 TDDC66, SU02, Laboration, Peter Larsson Green, D1.b, Grupp 1 ID 76218"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU02</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 1</div>
-
-
-</div>
-           
-        
-<div style="top: 436px; left: 52px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76252" onclick="openRes('76252', this,'','&step=0')" title=" 2013-09-16 15:15 - 17:00 TDDC66, SU03, Laboration, Torbjörn Lönnemark, D1.b, Grupp 3 ID 76252"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU03</div><div class="c ">Laboration</div><div class="c ">Torbjörn Lönnemark</div><div class="c ">D1.b</div><div class="c ">Grupp 3</div>
-
-
-</div>
-           
-        
-<div style="top: 436px; left: 78px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76310" onclick="openRes('76310', this,'','&step=0')" title=" 2013-09-16 15:15 - 17:00 TDDC66, SU10, Laboration, Jonas Wallgren, D1.c, Grupp 1 ID 76310"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU10</div><div class="c ">Laboration</div><div class="c ">Jonas Wallgren</div><div class="c ">D1.c</div><div class="c ">Grupp 1</div>
-
-
-</div>
-           
-        
-<div style="top: 436px; left: 104px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76349" onclick="openRes('76349', this,'','&step=0')" title=" 2013-09-16 15:15 - 17:00 TDDC66, SU11, Laboration, D1.c, Grupp 3 ID 76349"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU11</div><div class="c ">Laboration</div><div class="c ">D1.c</div><div class="c ">Grupp 3</div>
-
-
-</div>
-           
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 771">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Tisdag&nbsp;17/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130917" style="height: 780px;">
-        
-<div style="top: 16px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="78928" onclick="openRes('78928', this,'','&step=0')" title=" 2013-09-17 08:15 - 10:00 TDDD63, C4, Föreläsning, Patrick Doherty, D1, U1 ID 78928"><div class="c "><a href="http://www.ida.liu.se/~TDDD63/exam/index.sv.shtml" target="_blank">TDDD63</a></div><div class="c ">C4</div><div class="c ">Föreläsning</div><div class="c ">Patrick Doherty</div><div class="c ">D1<br>U1</div>
-
-
-</div>
-          <div style="top: 115px; left: 102px;" class="timeDiv">10:00</div><div style="top: 10px; left: 3px;" class="timeDiv">08:15</div> 
-        
-<div style="top: 136px; left: 0px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76186" onclick="openRes('76186', this,'','&step=0')" title=" 2013-09-17 10:15 - 12:00 TDDC66, SU01, Laboration, D1.a, Grupp 4 ID 76186"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU01</div><div class="c ">Laboration</div><div class="c ">D1.a</div><div class="c ">Grupp 4</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 26px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76219" onclick="openRes('76219', this,'','&step=0')" title=" 2013-09-17 10:15 - 12:00 TDDC66, SU02, Laboration, Peter Larsson Green, D1.b, Grupp 2 ID 76219"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU02</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 2</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 52px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76261" onclick="openRes('76261', this,'','&step=0')" title=" 2013-09-17 10:15 - 12:00 TDDC66, SU03, Laboration, Torbjörn Lönnemark, D1.b, Grupp 4 ID 76261"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU03</div><div class="c ">Laboration</div><div class="c ">Torbjörn Lönnemark</div><div class="c ">D1.b</div><div class="c ">Grupp 4</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 78px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76317" onclick="openRes('76317', this,'','&step=0')" title=" 2013-09-17 10:15 - 12:00 TDDC66, SU10, Laboration, Jonas Wallgren, D1.c, Grupp 2 ID 76317"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU10</div><div class="c ">Laboration</div><div class="c ">Jonas Wallgren</div><div class="c ">D1.c</div><div class="c ">Grupp 2</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 104px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76355" onclick="openRes('76355', this,'','&step=0')" title=" 2013-09-17 10:15 - 12:00 TDDC66, SU11, Laboration, D1.c, Grupp 4 ID 76355"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU11</div><div class="c ">Laboration</div><div class="c ">D1.c</div><div class="c ">Grupp 4</div>
-
-
-</div>
-           
-        
-<div style="top: 316px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="84735" onclick="openRes('84735', this,'','&step=0')" title=" 2013-09-17 13:15 - 15:00 TDDD70, Lektion, Aseel Berglund, D1, U1, Lokal: TER1 i Terrahuset ID 84735"><div class="c ">TDDD70</div><div class="c ">Lektion</div><div class="c ">Aseel Berglund</div><div class="c ">D1<br>U1</div><div class="c ">Lokal: TER1 i Terrahuset</div>
-
-
-</div>
-          <div style="top: 415px; left: 102px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
-        
-<div style="top: 436px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="56866" onclick="openRes('56866', this,'','&step=0')" title=" 2013-09-17 15:15 - 17:00 9MGA11, TATA65, C4, Föreläsning, Jesper Thorén, D1, U1, GRU5 ID 56866"><div class="c ">9MGA11<br>TATA65</div><div class="c ">C4</div><div class="c ">Föreläsning</div><div class="c ">Jesper Thorén</div><div class="c ">D1<br>U1<br>GRU5</div>
-
-
-</div>
-          <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 770">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Onsdag&nbsp;18/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130918" style="height: 780px;">
-        
-<div style="top: 16px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="57031" onclick="openRes('57031', this,'','&step=0')" title=" 2013-09-18 08:15 - 10:00 TDDC66, A1, Föreläsning, Peter Dalenius, D1, U1 ID 57031"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">A1</div><div class="c ">Föreläsning</div><div class="c ">Peter Dalenius</div><div class="c ">D1<br>U1</div>
-
-
-</div>
-          <div style="top: 115px; left: 102px;" class="timeDiv">10:00</div><div style="top: 10px; left: 3px;" class="timeDiv">08:15</div> 
-        
-<div style="top: 136px; left: 0px; width: 28px; height: 97px;" class="bookingDiv clickable" data-id="76155" onclick="openRes('76155', this,'','&step=0')" title=" 2013-09-18 10:15 - 12:00 TDDC66, SU17-18, Laboration, Anders Märak Leffler, D1.a, Grupp 2 ID 76155"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU17-18</div><div class="c ">Laboration</div><div class="c ">Anders Märak Leffler</div><div class="c ">D1.a</div><div class="c ">Grupp 2</div>
-
-
-</div>
-          <div style="top: 235px; left: 4px;" class="timeDiv">12:00</div><div style="top: 130px; left: 3px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 136px; left: 32px; width: 28px; height: 97px;" class="bookingDiv clickable" data-id="80647" onclick="openRes('80647', this,'','&step=0')" title=" 2013-09-18 10:15 - 12:00 TATA65, U15, Lektion, Armen Asratian, D1.c ID 80647"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">U15</div><div class="c ">Lektion</div><div class="c ">Armen Asratian</div><div class="c ">D1.c</div>
-
-
-</div>
-          <div style="top: 235px; left: 36px;" class="timeDiv">12:00</div><div style="top: 130px; left: 35px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 136px; left: 64px; width: 28px; height: 97px;" class="bookingDiv clickable" data-id="93415" onclick="openRes('93415', this,'','&step=0')" title=" 2013-09-18 10:15 - 12:00 TATA65, R26, Mentorsmöte, D1.a, Grupp B ID 93415"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">R26</div><div class="c ">Mentorsmöte</div><div class="c ">D1.a</div><div class="c ">Grupp B</div>
-
-
-</div>
-          <div style="top: 235px; left: 68px;" class="timeDiv">12:00</div><div style="top: 130px; left: 67px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 136px; left: 96px; width: 30px; height: 97px;" class="bookingDiv clickable" data-id="93424" onclick="openRes('93424', this,'','&step=0')" title=" 2013-09-18 10:15 - 12:00 TATA65, R27, Mentorsmöte, D1.b, Grupp A ID 93424"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">R27</div><div class="c ">Mentorsmöte</div><div class="c ">D1.b</div><div class="c ">Grupp A</div>
-
-
-</div>
-          <div style="top: 235px; left: 102px;" class="timeDiv">12:00</div><div style="top: 130px; left: 99px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 316px; left: 0px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="76157" onclick="openRes('76157', this,'','&step=0')" title=" 2013-09-18 13:15 - 15:00 TDDC66, SU04, SU06, Laboration, Anders Märak Leffler, D1.a, Grupp 1 ID 76157"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU04<br>SU06</div><div class="c ">Laboration</div><div class="c ">Anders Märak Leffler</div><div class="c ">D1.a</div><div class="c ">Grupp 1</div>
-
-
-</div>
-          <div style="top: 415px; left: 37px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
-        
-<div style="top: 316px; left: 65px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="93433" onclick="openRes('93433', this,'','&step=0')" title=" 2013-09-18 13:15 - 15:00 TATA65, T11, Mentorsmöte, D1.b, Grupp B ID 93433"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">T11</div><div class="c ">Mentorsmöte</div><div class="c ">D1.b</div><div class="c ">Grupp B</div>
-
-
-</div>
-          <div style="top: 415px; left: 102px;" class="timeDiv">15:00</div><div style="top: 310px; left: 68px;" class="timeDiv">13:15</div> 
-        
-<div style="top: 436px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="80335" onclick="openRes('80335', this,'','&step=0')" title=" 2013-09-18 15:15 - 17:00 TATA65, R22, Lektion, Armen Asratian, D1.a ID 80335"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">R22</div><div class="c ">Lektion</div><div class="c ">Armen Asratian</div><div class="c ">D1.a</div>
-
-
-</div>
-          <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 769">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Torsdag&nbsp;19/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130919" style="height: 780px;">
-        
-<div style="top: 16px; left: 0px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76159" onclick="openRes('76159', this,'','&step=0')" title=" 2013-09-19 08:15 - 10:00 TDDC66, SU00, Laboration, Anders Märak Leffler, D1.a, Grupp 2 ID 76159"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU00</div><div class="c ">Laboration</div><div class="c ">Anders Märak Leffler</div><div class="c ">D1.a</div><div class="c ">Grupp 2</div>
-
-
-</div>
-           
-        
-<div style="top: 16px; left: 21px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76189" onclick="openRes('76189', this,'','&step=0')" title=" 2013-09-19 08:15 - 10:00 TDDC66, SU01, Laboration, D1.a, Grupp 4 ID 76189"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU01</div><div class="c ">Laboration</div><div class="c ">D1.a</div><div class="c ">Grupp 4</div>
-
-
-</div>
-           
-        
-<div style="top: 16px; left: 42px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76221" onclick="openRes('76221', this,'','&step=0')" title=" 2013-09-19 08:15 - 10:00 TDDC66, SU02, Laboration, Peter Larsson Green, D1.b, Grupp 2 ID 76221"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU02</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 2</div>
-
-
-</div>
-           
-        
-<div style="top: 16px; left: 63px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76266" onclick="openRes('76266', this,'','&step=0')" title=" 2013-09-19 08:15 - 10:00 TDDC66, SU03, Laboration, Torbjörn Lönnemark, D1.b, Grupp 4 ID 76266"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU03</div><div class="c ">Laboration</div><div class="c ">Torbjörn Lönnemark</div><div class="c ">D1.b</div><div class="c ">Grupp 4</div>
-
-
-</div>
-           
-        
-<div style="top: 16px; left: 84px; width: 17px; height: 97px;" class="bookingDiv clickable" data-id="76318" onclick="openRes('76318', this,'','&step=0')" title=" 2013-09-19 08:15 - 10:00 TDDC66, SU10, Laboration, Jonas Wallgren, D1.c, Grupp 2 ID 76318"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU10</div><div class="c ">Laboration</div><div class="c ">Jonas Wallgren</div><div class="c ">D1.c</div><div class="c ">Grupp 2</div>
-
-
-</div>
-           
-        
-<div style="top: 16px; left: 105px; width: 21px; height: 97px;" class="bookingDiv clickable" data-id="76356" onclick="openRes('76356', this,'','&step=0')" title=" 2013-09-19 08:15 - 10:00 TDDC66, SU11, Laboration, D1.c, Grupp 4 ID 76356"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU11</div><div class="c ">Laboration</div><div class="c ">D1.c</div><div class="c ">Grupp 4</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 0px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76191" onclick="openRes('76191', this,'','&step=0')" title=" 2013-09-19 10:15 - 12:00 TDDC66, SU01, Laboration, D1.a, Grupp 3 ID 76191"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU01</div><div class="c ">Laboration</div><div class="c ">D1.a</div><div class="c ">Grupp 3</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 26px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76222" onclick="openRes('76222', this,'','&step=0')" title=" 2013-09-19 10:15 - 12:00 TDDC66, SU02, Laboration, Peter Larsson Green, D1.b, Grupp 1 ID 76222"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU02</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 1</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 52px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76272" onclick="openRes('76272', this,'','&step=0')" title=" 2013-09-19 10:15 - 12:00 TDDC66, SU03, Laboration, Torbjörn Lönnemark, D1.b, Grupp 3 ID 76272"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU03</div><div class="c ">Laboration</div><div class="c ">Torbjörn Lönnemark</div><div class="c ">D1.b</div><div class="c ">Grupp 3</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 78px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76322" onclick="openRes('76322', this,'','&step=0')" title=" 2013-09-19 10:15 - 12:00 TDDC66, SU10, Laboration, Jonas Wallgren, D1.c, Grupp 1 ID 76322"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU10</div><div class="c ">Laboration</div><div class="c ">Jonas Wallgren</div><div class="c ">D1.c</div><div class="c ">Grupp 1</div>
-
-
-</div>
-           
-        
-<div style="top: 136px; left: 104px; width: 22px; height: 97px;" class="bookingDiv clickable" data-id="76352" onclick="openRes('76352', this,'','&step=0')" title=" 2013-09-19 10:15 - 12:00 TDDC66, SU11, Laboration, D1.c, Grupp 3 ID 76352"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU11</div><div class="c ">Laboration</div><div class="c ">D1.c</div><div class="c ">Grupp 3</div>
-
-
-</div>
-           
-        
-<div style="top: 316px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="56983" onclick="openRes('56983', this,'','&step=0')" title=" 2013-09-19 13:15 - 15:00 TDDD63, A1, Föreläsning, Patrick Doherty, D1, U1 ID 56983"><div class="c "><a href="http://www.ida.liu.se/~TDDD63/exam/index.sv.shtml" target="_blank">TDDD63</a></div><div class="c ">A1</div><div class="c ">Föreläsning</div><div class="c ">Patrick Doherty</div><div class="c ">D1<br>U1</div>
-
-
-</div>
-          <div style="top: 415px; left: 102px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
-        
-<div style="top: 436px; left: 0px; width: 39px; height: 97px;" class="bookingDiv clickable" data-id="80603" onclick="openRes('80603', this,'','&step=0')" title=" 2013-09-19 15:15 - 17:00 9MGA11, TATA65, R18, Lektion, Danyo Danev, D1.b, GRU5 ID 80603"><div class="c ">9MGA11<br>TATA65</div><div class="c ">R18</div><div class="c ">Lektion</div><div class="c ">Danyo Danev</div><div class="c ">D1.b<br>GRU5</div>
-
-
-</div>
-          <div style="top: 535px; left: 15px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
-        
-<div style="top: 436px; left: 43px; width: 39px; height: 97px;" class="bookingDiv clickable" data-id="93441" onclick="openRes('93441', this,'','&step=0')" title=" 2013-09-19 15:15 - 17:00 TATA65, R44, Mentorsmöte, D1.c, Grupp A ID 93441"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">R44</div><div class="c ">Mentorsmöte</div><div class="c ">D1.c</div><div class="c ">Grupp A</div>
-
-
-</div>
-          <div style="top: 535px; left: 58px;" class="timeDiv">17:00</div><div style="top: 430px; left: 46px;" class="timeDiv">15:15</div> 
-        
-<div style="top: 436px; left: 86px; width: 40px; height: 97px;" class="bookingDiv clickable" data-id="93449" onclick="openRes('93449', this,'','&step=0')" title=" 2013-09-19 15:15 - 17:00 TATA65, S10, Mentorsmöte, D1.c, Grupp B ID 93449"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">S10</div><div class="c ">Mentorsmöte</div><div class="c ">D1.c</div><div class="c ">Grupp B</div>
-
-
-</div>
-          <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 89px;" class="timeDiv">15:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 768">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Fredag&nbsp;20/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130920" style="height: 780px;">
-        
-<div style="top: 16px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="76160" onclick="openRes('76160', this,'','&step=0')" title=" 2013-09-20 08:15 - 10:00 TDDC66, S10, Lektion, Anders Märak Leffler, D1.a ID 76160"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">S10</div><div class="c ">Lektion</div><div class="c ">Anders Märak Leffler</div><div class="c ">D1.a</div>
-
-
-</div>
-          <div style="top: 115px; left: 102px;" class="timeDiv">10:00</div><div style="top: 10px; left: 3px;" class="timeDiv">08:15</div> 
-        
-<div style="top: 136px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="56984" onclick="openRes('56984', this,'','&step=0')" title=" 2013-09-20 10:15 - 12:00 TDDD63, C4, Föreläsning, Patrick Doherty, D1, U1 ID 56984"><div class="c "><a href="http://www.ida.liu.se/~TDDD63/exam/index.sv.shtml" target="_blank">TDDD63</a></div><div class="c ">C4</div><div class="c ">Föreläsning</div><div class="c ">Patrick Doherty</div><div class="c ">D1<br>U1</div>
-
-
-</div>
-          <div style="top: 235px; left: 102px;" class="timeDiv">12:00</div><div style="top: 130px; left: 3px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 316px; left: 0px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="76161" onclick="openRes('76161', this,'','&step=0')" title=" 2013-09-20 13:15 - 15:00 TDDC66, R18, Lektion, Peter Larsson Green, D1.b ID 76161"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">R18</div><div class="c ">Lektion</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div>
-
-
-</div>
-          <div style="top: 415px; left: 37px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
-        
-<div style="top: 316px; left: 65px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="76162" onclick="openRes('76162', this,'','&step=0')" title=" 2013-09-20 13:15 - 15:00 TDDC66, U6, Lektion, Jonas Wallgren, D1.c ID 76162"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">U6</div><div class="c ">Lektion</div><div class="c ">Jonas Wallgren</div><div class="c ">D1.c</div>
-
-
-</div>
-          <div style="top: 415px; left: 102px;" class="timeDiv">15:00</div><div style="top: 310px; left: 68px;" class="timeDiv">13:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 767">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Lördag&nbsp;21/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130921" style="height: 780px;">
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 766">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;22/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130922" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 765">
+		<div class="weekContainer"><div id='pastDays'><div class="weekDay" style="z-index: 765">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 39</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -673,7 +13,7 @@
 </div>
           <div style="top: 115px; left: 102px;" class="timeDiv">10:00</div><div style="top: 10px; left: 3px;" class="timeDiv">08:15</div> 
         
-<div style="top: 136px; left: 0px; width: 28px; height: 97px;" class="bookingDiv clickable" data-id="76785" onclick="openRes('76785', this,'','&step=0')" title=" 2013-09-23 10:15 - 12:00 TDDD73, SU01, Laboration, Peter Larsson Green, D1.b, Grupp 2 ID 76785"><span class="tesprite tesprite-new tespriteinline"></span><div class="c ">TDDD73</div><div class="c ">SU01</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 2</div>
+<div style="top: 136px; left: 0px; width: 28px; height: 97px;" class="bookingDiv clickable" data-id="76785" onclick="openRes('76785', this,'','&step=0')" title=" 2013-09-23 10:15 - 12:00 TDDD73, SU01, Laboration, Peter Larsson Green, D1.b, Grupp 2 ID 76785"><div class="c ">TDDD73</div><div class="c ">SU01</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 2</div>
 
 
 </div>
@@ -923,7 +263,7 @@
           <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 89px;" class="timeDiv">15:15</div> 
     </div>
   </div>
-  <div class="weekDay" style="z-index: 761">
+  </div><div class="weekDay" style="z-index: 761">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 39</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -961,20 +301,11 @@
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 39</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
       </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Lördag&nbsp;28/9</div></div>
+    <div class="weekDayHeader dateIsTodayHeader"><div class="headlinebottom2">Lördag&nbsp;28/9</div></div>
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130928" style="height: 780px;">
     </div>
   </div>
-  <div class="weekDay" style="z-index: 759">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 39</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;29/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130929" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 758">
+  <br class="clearBoth"><div class="weekDay" style="z-index: 758">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 40</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -1018,7 +349,7 @@
 </div>
           <div style="top: 415px; left: 37px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
         
-<div style="top: 316px; left: 65px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="76787" onclick="openRes('76787', this,'','&step=0')" title=" 2013-09-30 13:15 - 15:00 TDDD73, SU10, Laboration, Peter Larsson Green, D1.b, Grupp 2 ID 76787"><span class="tesprite tesprite-new tespriteinline"></span><div class="c ">TDDD73</div><div class="c ">SU10</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 2</div>
+<div style="top: 316px; left: 65px; width: 61px; height: 97px;" class="bookingDiv clickable" data-id="76787" onclick="openRes('76787', this,'','&step=0')" title=" 2013-09-30 13:15 - 15:00 TDDD73, SU10, Laboration, Peter Larsson Green, D1.b, Grupp 2 ID 76787"><div class="c ">TDDD73</div><div class="c ">SU10</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 2</div>
 
 
 </div>
@@ -1150,23 +481,29 @@
 </div>
            
         
-<div style="top: 436px; left: 0px; width: 39px; height: 97px;" class="bookingDiv clickable" data-id="76779" onclick="openRes('76779', this,'','&step=0')" title=" 2013-10-02 15:15 - 17:00 TDDD73, SU00, Laboration, Peter Larsson Green, D1.b, Grupp 1 ID 76779"><div class="c ">TDDD73</div><div class="c ">SU00</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 1</div>
+<div style="top: 436px; left: 0px; width: 28px; height: 97px;" class="bookingDiv clickable" data-id="76701" onclick="openRes('76701', this,'','&step=0')" title=" 2013-10-02 15:15 - 17:00 TDDD73, SU04, SU06, Laboration, Anders Märak Leffler, D1.a, Grupp 2 ID 76701"><div class="c ">TDDD73</div><div class="c ">SU04<br>SU06</div><div class="c ">Laboration</div><div class="c ">Anders Märak Leffler</div><div class="c ">D1.a</div><div class="c ">Grupp 2</div>
 
 
 </div>
-          <div style="top: 535px; left: 15px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
+          <div style="top: 535px; left: 4px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
         
-<div style="top: 436px; left: 43px; width: 39px; height: 97px;" class="bookingDiv clickable" data-id="77812" onclick="openRes('77812', this,'','&step=0')" title=" 2013-10-02 15:15 - 17:00 TDDD73, SU01, Laboration, Torbjörn Lönnemark, D1.b, Grupp 3 ID 77812"><div class="c ">TDDD73</div><div class="c ">SU01</div><div class="c ">Laboration</div><div class="c ">Torbjörn Lönnemark</div><div class="c ">D1.b</div><div class="c ">Grupp 3</div>
+<div style="top: 436px; left: 32px; width: 28px; height: 97px;" class="bookingDiv clickable" data-id="76779" onclick="openRes('76779', this,'','&step=0')" title=" 2013-10-02 15:15 - 17:00 TDDD73, SU00, Laboration, Peter Larsson Green, D1.b, Grupp 1 ID 76779"><div class="c ">TDDD73</div><div class="c ">SU00</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Grupp 1</div>
 
 
 </div>
-          <div style="top: 535px; left: 58px;" class="timeDiv">17:00</div><div style="top: 430px; left: 46px;" class="timeDiv">15:15</div> 
+          <div style="top: 535px; left: 36px;" class="timeDiv">17:00</div><div style="top: 430px; left: 35px;" class="timeDiv">15:15</div> 
         
-<div style="top: 436px; left: 86px; width: 40px; height: 97px;" class="bookingDiv clickable" data-id="80651" onclick="openRes('80651', this,'','&step=0')" title=" 2013-10-02 15:15 - 17:00 TATA65, U14, Lektion, Armen Asratian, D1.c ID 80651"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">U14</div><div class="c ">Lektion</div><div class="c ">Armen Asratian</div><div class="c ">D1.c</div>
+<div style="top: 436px; left: 64px; width: 28px; height: 97px;" class="bookingDiv clickable" data-id="77812" onclick="openRes('77812', this,'','&step=0')" title=" 2013-10-02 15:15 - 17:00 TDDD73, SU01, Laboration, Torbjörn Lönnemark, D1.b, Grupp 3 ID 77812"><div class="c ">TDDD73</div><div class="c ">SU01</div><div class="c ">Laboration</div><div class="c ">Torbjörn Lönnemark</div><div class="c ">D1.b</div><div class="c ">Grupp 3</div>
 
 
 </div>
-          <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 89px;" class="timeDiv">15:15</div> 
+          <div style="top: 535px; left: 68px;" class="timeDiv">17:00</div><div style="top: 430px; left: 67px;" class="timeDiv">15:15</div> 
+        
+<div style="top: 436px; left: 96px; width: 30px; height: 97px;" class="bookingDiv clickable" data-id="80651" onclick="openRes('80651', this,'','&step=0')" title=" 2013-10-02 15:15 - 17:00 TATA65, U14, Lektion, Armen Asratian, D1.c ID 80651"><div class="c "><a href="http://www.mai.liu.se/~jetho/kurser/TATA65/" target="_blank">TATA65</a></div><div class="c ">U14</div><div class="c ">Lektion</div><div class="c ">Armen Asratian</div><div class="c ">D1.c</div>
+
+
+</div>
+          <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 99px;" class="timeDiv">15:15</div> 
     </div>
   </div>
   <div class="weekDay" style="z-index: 755">
@@ -1240,12 +577,6 @@
     <div class="weekDayHeader"><div class="headlinebottom2">Fredag&nbsp;4/10</div></div>
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131004" style="height: 780px;">
         
-<div style="top: 16px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="76701" onclick="openRes('76701', this,'','&step=0')" title=" 2013-10-04 08:15 - 10:00 TDDD73, SU17-18, Laboration, Anders Märak Leffler, D1.a, Grupp 2 ID 76701"><div class="c ">TDDD73</div><div class="c ">SU17-18</div><div class="c ">Laboration</div><div class="c ">Anders Märak Leffler</div><div class="c ">D1.a</div><div class="c ">Grupp 2</div>
-
-
-</div>
-          <div style="top: 115px; left: 102px;" class="timeDiv">10:00</div><div style="top: 10px; left: 3px;" class="timeDiv">08:15</div> 
-        
 <div style="top: 136px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="78967" onclick="openRes('78967', this,'','&step=0')" title=" 2013-10-04 10:15 - 12:00 TDDD63, C4, Föreläsning, Patrick Doherty, D1, U1 ID 78967"><div class="c "><a href="http://www.ida.liu.se/~TDDD63/exam/index.sv.shtml" target="_blank">TDDD63</a></div><div class="c ">C4</div><div class="c ">Föreläsning</div><div class="c ">Patrick Doherty</div><div class="c ">D1<br>U1</div>
 
 
@@ -1280,16 +611,7 @@
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131005" style="height: 780px;">
     </div>
   </div>
-  <div class="weekDay" style="z-index: 752">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 40</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;6/10</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131006" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 751">
+  <br class="clearBoth"><div class="weekDay" style="z-index: 751">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 41</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -1577,16 +899,7 @@
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131012" style="height: 780px;">
     </div>
   </div>
-  <div class="weekDay" style="z-index: 745">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 41</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;13/10</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131013" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 744">
+  <br class="clearBoth"><div class="weekDay" style="z-index: 744">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 42</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -1825,7 +1138,7 @@
     <div class="weekDayHeader"><div class="headlinebottom2">Torsdag&nbsp;17/10</div></div>
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131017" style="height: 780px;">
         
-<div style="top: 16px; left: 0px; width: 126px; height: 217px;" class="bookingDiv clickable" data-id="78884" onclick="openRes('78884', this,'','&step=0')" title=" 2013-10-17 08:15 - 12:00 TDDD70, GG32-34, Seminarium, D1, U1 ID 78884"><div class="c ">TDDD70</div><div class="c ">GG32-34</div><div class="c ">Seminarium</div><div class="c ">D1<br>U1</div>
+<div style="top: 16px; left: 0px; width: 126px; height: 217px;" class="bookingDiv clickable" data-id="78884" onclick="openRes('78884', this,'','&step=0')" title=" 2013-10-17 08:15 - 12:00 TDDD70, GG32-35, Seminarium, D1, U1 ID 78884"><div class="c ">TDDD70</div><div class="c ">GG32-35</div><div class="c ">Seminarium</div><div class="c ">D1<br>U1</div>
 
 
 </div>
@@ -1894,7 +1207,7 @@
 </div>
           <div style="top: 415px; left: 58px;" class="timeDiv">15:00</div><div style="top: 310px; left: 46px;" class="timeDiv">13:15</div> 
         
-<div style="top: 316px; left: 86px; width: 40px; height: 97px;" class="bookingDiv clickable" data-id="87108" onclick="openRes('87108', this,'','&step=0')" title=" 2013-10-18 13:15 - 15:00 TDDC66, SU02-03, Laboration, Peter Larsson Green, D1.b, Prova-på-laboration ID 87108"><span class="tesprite tesprite-new tespriteinline"></span><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU02-03</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Prova-på-laboration</div>
+<div style="top: 316px; left: 86px; width: 40px; height: 97px;" class="bookingDiv clickable" data-id="87108" onclick="openRes('87108', this,'','&step=0')" title=" 2013-10-18 13:15 - 15:00 TDDC66, SU02-03, Laboration, Peter Larsson Green, D1.b, Prova-på-laboration ID 87108"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU02-03</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Prova-på-laboration</div>
 
 
 </div>
@@ -1912,7 +1225,7 @@
 </div>
           <div style="top: 535px; left: 58px;" class="timeDiv">17:00</div><div style="top: 430px; left: 46px;" class="timeDiv">15:15</div> 
         
-<div style="top: 436px; left: 86px; width: 40px; height: 97px;" class="bookingDiv clickable" data-id="76662" onclick="openRes('76662', this,'','&step=0')" title=" 2013-10-18 15:15 - 17:00 TDDC66, SU02-03, Laboration, Peter Larsson Green, D1.b, Prova-på-laboration ID 76662"><span class="tesprite tesprite-new tespriteinline"></span><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU02-03</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Prova-på-laboration</div>
+<div style="top: 436px; left: 86px; width: 40px; height: 97px;" class="bookingDiv clickable" data-id="76662" onclick="openRes('76662', this,'','&step=0')" title=" 2013-10-18 15:15 - 17:00 TDDC66, SU02-03, Laboration, Peter Larsson Green, D1.b, Prova-på-laboration ID 76662"><div class="c "><a href="http://www.ida.liu.se/~TDDC66/" target="_blank">TDDC66</a></div><div class="c ">SU02-03</div><div class="c ">Laboration</div><div class="c ">Peter Larsson Green</div><div class="c ">D1.b</div><div class="c ">Prova-på-laboration</div>
 
 
 </div>
@@ -1928,16 +1241,7 @@
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131019" style="height: 780px;">
     </div>
   </div>
-  <div class="weekDay" style="z-index: 738">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 42</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;20/10</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131020" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 737">
+  <br class="clearBoth"><div class="weekDay" style="z-index: 737">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 43</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -2141,13 +1445,4 @@
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131026" style="height: 780px;">
     </div>
   </div>
-  <div class="weekDay" style="z-index: 731">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 43</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;27/10</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131027" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"></div></div>
+  <br class="clearBoth"></div></div>

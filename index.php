@@ -8,7 +8,6 @@ include("Stats.php");
 $layout = new Layout();
 ?>
 
-
 <?php 
 $layout->printBeforeContent(); 
 $ch = new CookieHandeler;
@@ -47,7 +46,7 @@ $ch->goToChooseCookiePageIfNoCookie();
 	$rememberArea->printLinks();
 	?></div>
 
-<p style="line-height:10%;font-size:0.1em"><br style="clear:both"/></p>
+<p style="line-height:1%;font-size:0.1em"><br style="clear:both"/></p>
 
 </div>
 

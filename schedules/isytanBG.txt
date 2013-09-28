@@ -1,215 +1,5 @@
 <div id="contents" data-hourwidth="24">
-		<div class="weekContainer"><div class="weekDay" style="z-index: 758">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Måndag&nbsp;9/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130909" style="height: 780px;">
-        
-<div style="top: 316px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="86906" onclick="openRes('86906', this,'','&step=0')" title=" 2013-09-09 13:15 - 15:00 ISYtan1-5, Basgrupp, IT3 ID 86906"><div class="c ">ISYtan1-5</div><div class="c ">Basgrupp</div><div class="c ">IT3</div>
-
-
-</div>
-          <div style="top: 415px; left: 102px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 757">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Tisdag&nbsp;10/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130910" style="height: 780px;">
-        
-<div style="top: 136px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="81565" onclick="openRes('81565', this,'','&step=0')" title=" 2013-09-10 10:15 - 12:00 ISYtan1-6, Basgrupp, IT1 ID 81565"><div class="c ">ISYtan1-6</div><div class="c ">Basgrupp</div><div class="c ">IT1</div>
-
-
-</div>
-          <div style="top: 235px; left: 102px;" class="timeDiv">12:00</div><div style="top: 130px; left: 3px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 436px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="90224" onclick="openRes('90224', this,'','&step=0')" title=" 2013-09-10 15:15 - 17:00 ISYtan1-6, Basgrupp, IT2 ID 90224"><div class="c ">ISYtan1-6</div><div class="c ">Basgrupp</div><div class="c ">IT2</div>
-
-
-</div>
-          <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 756">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Onsdag&nbsp;11/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130911" style="height: 780px;">
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 755">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Torsdag&nbsp;12/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130912" style="height: 780px;">
-        
-<div style="top: 136px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="86907" onclick="openRes('86907', this,'','&step=0')" title=" 2013-09-12 10:15 - 12:00 ISYtan1-5, Basgrupp, IT3 ID 86907"><div class="c ">ISYtan1-5</div><div class="c ">Basgrupp</div><div class="c ">IT3</div>
-
-
-</div>
-          <div style="top: 235px; left: 102px;" class="timeDiv">12:00</div><div style="top: 130px; left: 3px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 316px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="81566" onclick="openRes('81566', this,'','&step=0')" title=" 2013-09-12 13:15 - 15:00 ISYtan1-6, Basgrupp, IT1 ID 81566"><div class="c ">ISYtan1-6</div><div class="c ">Basgrupp</div><div class="c ">IT1</div>
-
-
-</div>
-          <div style="top: 415px; left: 102px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
-        
-<div style="top: 436px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="75321" onclick="openRes('75321', this,'','&step=0')" title=" 2013-09-12 15:15 - 17:00 TSRT10, ISYtan1-7, Grupparbete ID 75321"><div class="c ">TSRT10</div><div class="c ">ISYtan1-7</div><div class="c ">Grupparbete</div>
-
-
-</div>
-          <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 754">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Fredag&nbsp;13/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130913" style="height: 780px;">
-        
-<div style="top: 136px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="90225" onclick="openRes('90225', this,'','&step=0')" title=" 2013-09-13 10:15 - 12:00 ISYtan1-6, Basgrupp, IT2 ID 90225"><div class="c ">ISYtan1-6</div><div class="c ">Basgrupp</div><div class="c ">IT2</div>
-
-
-</div>
-          <div style="top: 235px; left: 102px;" class="timeDiv">12:00</div><div style="top: 130px; left: 3px;" class="timeDiv">10:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 753">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Lördag&nbsp;14/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130914" style="height: 780px;">
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 752">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 37</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader dateIsTodayHeader"><div class="headlinebottom2">Söndag&nbsp;15/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130915" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 751">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Måndag&nbsp;16/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130916" style="height: 780px;">
-        
-<div style="top: 316px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="86908" onclick="openRes('86908', this,'','&step=0')" title=" 2013-09-16 13:15 - 15:00 ISYtan1-5, Basgrupp, IT3 ID 86908"><div class="c ">ISYtan1-5</div><div class="c ">Basgrupp</div><div class="c ">IT3</div>
-
-
-</div>
-          <div style="top: 415px; left: 102px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 750">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Tisdag&nbsp;17/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130917" style="height: 780px;">
-        
-<div style="top: 136px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="81567" onclick="openRes('81567', this,'','&step=0')" title=" 2013-09-17 10:15 - 12:00 ISYtan1-6, Basgrupp, IT1 ID 81567"><div class="c ">ISYtan1-6</div><div class="c ">Basgrupp</div><div class="c ">IT1</div>
-
-
-</div>
-          <div style="top: 235px; left: 102px;" class="timeDiv">12:00</div><div style="top: 130px; left: 3px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 436px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="90222" onclick="openRes('90222', this,'','&step=0')" title=" 2013-09-17 15:15 - 17:00 ISYtan1-6, Basgrupp, IT2 ID 90222"><div class="c ">ISYtan1-6</div><div class="c ">Basgrupp</div><div class="c ">IT2</div>
-
-
-</div>
-          <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 749">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Onsdag&nbsp;18/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130918" style="height: 780px;">
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 748">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Torsdag&nbsp;19/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130919" style="height: 780px;">
-        
-<div style="top: 136px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="86909" onclick="openRes('86909', this,'','&step=0')" title=" 2013-09-19 10:15 - 12:00 ISYtan1-5, Basgrupp, IT3 ID 86909"><div class="c ">ISYtan1-5</div><div class="c ">Basgrupp</div><div class="c ">IT3</div>
-
-
-</div>
-          <div style="top: 235px; left: 102px;" class="timeDiv">12:00</div><div style="top: 130px; left: 3px;" class="timeDiv">10:15</div> 
-        
-<div style="top: 316px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="81568" onclick="openRes('81568', this,'','&step=0')" title=" 2013-09-19 13:15 - 15:00 ISYtan1-6, Basgrupp, IT1 ID 81568"><div class="c ">ISYtan1-6</div><div class="c ">Basgrupp</div><div class="c ">IT1</div>
-
-
-</div>
-          <div style="top: 415px; left: 102px;" class="timeDiv">15:00</div><div style="top: 310px; left: 3px;" class="timeDiv">13:15</div> 
-        
-<div style="top: 436px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="75322" onclick="openRes('75322', this,'','&step=0')" title=" 2013-09-19 15:15 - 17:00 TSRT10, ISYtan1-7, Grupparbete ID 75322"><div class="c ">TSRT10</div><div class="c ">ISYtan1-7</div><div class="c ">Grupparbete</div>
-
-
-</div>
-          <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 747">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Fredag&nbsp;20/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130920" style="height: 780px;">
-        
-<div style="top: 136px; left: 0px; width: 126px; height: 97px;" class="bookingDiv clickable" data-id="90226" onclick="openRes('90226', this,'','&step=0')" title=" 2013-09-20 10:15 - 12:00 ISYtan1-6, Basgrupp, IT2 ID 90226"><div class="c ">ISYtan1-6</div><div class="c ">Basgrupp</div><div class="c ">IT2</div>
-
-
-</div>
-          <div style="top: 235px; left: 102px;" class="timeDiv">12:00</div><div style="top: 130px; left: 3px;" class="timeDiv">10:15</div> 
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 746">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Lördag&nbsp;21/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130921" style="height: 780px;">
-    </div>
-  </div>
-  <div class="weekDay" style="z-index: 745">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 38</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;22/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130922" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 744">
+		<div class="weekContainer"><div id='pastDays'><div class="weekDay" style="z-index: 744">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 39</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -281,7 +71,7 @@
           <div style="top: 535px; left: 102px;" class="timeDiv">17:00</div><div style="top: 430px; left: 3px;" class="timeDiv">15:15</div> 
     </div>
   </div>
-  <div class="weekDay" style="z-index: 740">
+  </div><div class="weekDay" style="z-index: 740">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 39</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -301,20 +91,11 @@
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 39</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
       </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Lördag&nbsp;28/9</div></div>
+    <div class="weekDayHeader dateIsTodayHeader"><div class="headlinebottom2">Lördag&nbsp;28/9</div></div>
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130928" style="height: 780px;">
     </div>
   </div>
-  <div class="weekDay" style="z-index: 738">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 39</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;29/9</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20130929" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 737">
+  <br class="clearBoth"><div class="weekDay" style="z-index: 737">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 40</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -410,16 +191,7 @@
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131005" style="height: 780px;">
     </div>
   </div>
-  <div class="weekDay" style="z-index: 731">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 40</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;6/10</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131006" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 730">
+  <br class="clearBoth"><div class="weekDay" style="z-index: 730">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 41</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -515,16 +287,7 @@
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131012" style="height: 780px;">
     </div>
   </div>
-  <div class="weekDay" style="z-index: 724">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 41</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;13/10</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131013" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 723">
+  <br class="clearBoth"><div class="weekDay" style="z-index: 723">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 42</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -620,16 +383,7 @@
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131019" style="height: 780px;">
     </div>
   </div>
-  <div class="weekDay" style="z-index: 717">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 42</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;20/10</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131020" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 716">
+  <br class="clearBoth"><div class="weekDay" style="z-index: 716">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 43</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -695,16 +449,7 @@
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131026" style="height: 780px;">
     </div>
   </div>
-  <div class="weekDay" style="z-index: 710">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 43</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;27/10</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131027" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"><div class="weekDay" style="z-index: 709">
+  <br class="clearBoth"><div class="weekDay" style="z-index: 709">
     <div class="hourlist">
       <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 44</span>&nbsp;</div>
         <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
@@ -764,13 +509,4 @@
     <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131102" style="height: 780px;">
     </div>
   </div>
-  <div class="weekDay" style="z-index: 703">
-    <div class="hourlist">
-      <div class="weekDayHeader weekDayHeaderFirst"><span class="headerFirst">v 44</span>&nbsp;</div>
-        <div class="weekDiv weekDivFirst" style="height: 780px;"><div class="hour hourFirst">8</div><div class="hour">9</div><div class="hour">10</div><div class="hour">11</div><div class="hour">12</div><div class="hour">13</div><div class="hour">14</div><div class="hour">15</div><div class="hour">16</div><div class="hour">17</div><div class="hour">18</div><div class="hour">19</div><div class="hour">20</div></div>
-      </div>
-    <div class="weekDayHeader"><div class="headlinebottom2">Söndag&nbsp;3/11</div></div>
-    <div class="weekDiv" data-object="" data-hourHeight="10" data-dates="20131103" style="height: 780px;">
-    </div>
-  </div>
-    <br class="clearBoth"></div></div>
+  <br class="clearBoth"></div></div>
