@@ -131,7 +131,8 @@ class Schedule{
 	// at the top in mobile browsers
 	public function addPastDaysMarkup($schedule){
 		$weekDay = Date("N");
-		if ($weekDay > 4) $markUpAfterDivNumber = 5;
+		if ($weekDay == 7) return $schedule;
+		else if ($weekDay > 4) $markUpAfterDivNumber = 5;
 		else if ($weekDay > 2) $markUpAfterDivNumber = 3;
 		else return $schedule;
 		$currentWeek = $schedule[0]; 
