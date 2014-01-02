@@ -31,13 +31,28 @@ class Link{
 		}
 
 		public function isLinkCurrent(){
-			$startYear = Date("y");
+			$currentYear = Date("y");
 
 			// Is the period ending after new year?
-			if (strtotime("$startYear-$this->visibleFrom") > strtotime("$startYear-$this->visibleUntil")) {
-				$endYear = $startYear + 1;
+			if (strtotime("$currentYear-$this->visibleFrom") > strtotime("$currentYear-$this->visibleUntil")) {
+
+				// Before new year
+				if (time() > strtotime("$currentYear-07-01")){
+					$endYear = $currentYear + 1; 
+					$startYear = $currentYear;
+				}
+
+				// After new year
+				else { 
+					$endYear = $currentYear;
+					$startYear = $currentYear - 1 ; 
+				}
+
 			}
-			else $endYear = $startYear; 
+			else {
+				$endYear = $currentYear;
+				$startYear = $currentYear; 
+			}
 
 			// If link visibility period is now
 			if((strtotime("$startYear-$this->visibleFrom") < time()) &&  (strtotime("$endYear-$this->visibleUntil") > time())){
