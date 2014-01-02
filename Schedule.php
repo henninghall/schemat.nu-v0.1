@@ -87,7 +87,8 @@ class Schedule{
 
 		foreach ($allWeeks as $week) {
 		   if ($isCurrentWeekFound){
-		   		// Removes empty weeks (all weeks with content includes class="c ) 
+		   		// Removes empty weeks (all weeks with content includes class="c )
+		   		// A week only contains class="c if there are planned activities this week = non empty week. 
 		   		if (strpos($week,"class=\"c ") !== false) {
 		   			$activeWeeks[] = $week;
 		  	 	}
@@ -95,7 +96,10 @@ class Schedule{
 		   // When current week is found all weeks afterwards are being returned
 		   else if (strpos($week,"v $currentWeek") !== false){
 		   		$isCurrentWeekFound = true;
-		   		$activeWeeks[] = $week;
+		   		// Dont catch current week if it is  
+		   		if (strpos($week,"class=\"c ") !== false) {
+		   			$activeWeeks[] = $week;
+		  	 	}
 		   }
 		}
 		return $activeWeeks;
