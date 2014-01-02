@@ -19,7 +19,7 @@ class Schedule{
 
 		// remove unneccesary stuff
 		$cleanedSchedule = $this->cleanRawSchedule($rawSchedule);
-				
+			
 		// Adds course links to schedule		
 		$cleanedSchedule = $this->addCourseLinks($cleanedSchedule);
 
@@ -78,6 +78,9 @@ class Schedule{
 		$isCurrentWeekFound = false; 
 		$currentWeek = Date("W");
 
+		// removes first 0 in week number (needed for week 01 to 09)
+		if (substr($currentWeek, 0, 1) == "0") $currentWeek = substr($currentWeek, 1);
+
 		// Shows schedule for next week if today is sunday
 		// BUG: currentweek++ doesnt work around year break -> fix this bug later
 		if (Date("N") == 7) $currentWeek++;
@@ -94,7 +97,6 @@ class Schedule{
 		   		$isCurrentWeekFound = true;
 		   		$activeWeeks[] = $week;
 		   }
-
 		}
 		return $activeWeeks;
 	}
