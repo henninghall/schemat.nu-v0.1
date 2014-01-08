@@ -80,6 +80,7 @@ font-family: 'Open Sans', sans-serif;
 .c a:link, .c a:visited, .c a:hover, .c a:active  {color:#1265d9;}  
 
 
+
 #topAreas a:hover, .subpage a:hover, .c a:hover {
 	text-decoration: underline;
 }

@@ -8,7 +8,16 @@ class Schedule{
 	public function printSchedule() {
 		$ch = new CookieHandeler(); 
 		$this->schedule = $ch->getCookie();
-		echo file_get_contents("schedules/$this->schedule.txt");
+
+		$content = file_get_contents("schedules/$this->schedule.txt");
+		$content = preg_replace("/\s+/", " ", $content);
+
+		echo $content; 
+
+		if ($this->isEmpty($content)){
+			print "<div class='subpage'><p>Ditt schema verkar ha gått ut.</p>
+			<p><a href='UpdateTimeeditPage.php'>Updatera schemat!</a></p>";
+		}
 	}
 
 	public function updateSchedule($class) {
@@ -19,7 +28,7 @@ class Schedule{
 
 		// remove unneccesary stuff
 		$cleanedSchedule = $this->cleanRawSchedule($rawSchedule);
-			
+
 		// Adds course links to schedule		
 		$cleanedSchedule = $this->addCourseLinks($cleanedSchedule);
 
@@ -86,36 +95,36 @@ class Schedule{
 		if (Date("N") == 7) $currentWeek++;
 
 		foreach ($allWeeks as $week) {
-		   if ($isCurrentWeekFound){
+			if ($isCurrentWeekFound){
 		   		// Removes empty weeks (all weeks with content includes class="c )
 		   		// A week only contains class="c if there are planned activities this week = non empty week. 
-		   		if (strpos($week,"class=\"c ") !== false) {
-		   			$activeWeeks[] = $week;
-		  	 	}
-		   }
+				if (strpos($week,"class=\"c ") !== false) {
+					$activeWeeks[] = $week;
+				}
+			}
 		   // When current week is found all weeks afterwards are being returned
-		   else if (strpos($week,"v $currentWeek") !== false){
-		   		$isCurrentWeekFound = true;
+			else if (strpos($week,"v $currentWeek") !== false){
+				$isCurrentWeekFound = true;
 		   		// Dont catch current week if it is  
-		   		if (strpos($week,"class=\"c ") !== false) {
-		   			$activeWeeks[] = $week;
-		  	 	}
-		   }
+				if (strpos($week,"class=\"c ") !== false) {
+					$activeWeeks[] = $week;
+				}
+			}
 		}
 		return $activeWeeks;
 	}
 
 	public function removeSundays($allWeeks){
 		foreach ($allWeeks as $week) {
-		  	
+
 			// Sunday starts at position == Last weekday start at position.		strrpos = pos last occurance
-		  	$sundayStartPos = strrpos($week, "<div class=\"weekDay\"");
- 
+			$sundayStartPos = strrpos($week, "<div class=\"weekDay\"");
+
 		  	// removes sundays and re-adds the break which is also removed. 
-		  	$sundayFreeWeek = substr($week, 0, $sundayStartPos)."<br class=\"clearBoth\">";
-		  	
+			$sundayFreeWeek = substr($week, 0, $sundayStartPos)."<br class=\"clearBoth\">";
+
 		  	// Putting back the week to the array.
-		  	$sundayFreeWeeks[] = $sundayFreeWeek;
+			$sundayFreeWeeks[] = $sundayFreeWeek;
 		}
 		return $sundayFreeWeeks;
 	}
@@ -142,9 +151,9 @@ class Schedule{
 		else if ($weekDay > 2) $markUpAfterDivNumber = 3;
 		else return $schedule;
 		$currentWeek = $schedule[0]; 
-			$markup = "<div id='pastDays'>";
-			$pos = $this->strposOffset("<div class=\"weekDay\"",$currentWeek,$markUpAfterDivNumber);
-			$schedule[0] = $markup . substr($currentWeek, 0, $pos) . "</div>" . substr($currentWeek, $pos);
+		$markup = "<div id='pastDays'>";
+		$pos = $this->strposOffset("<div class=\"weekDay\"",$currentWeek,$markUpAfterDivNumber);
+		$schedule[0] = $markup . substr($currentWeek, 0, $pos) . "</div>" . substr($currentWeek, $pos);
 		return $schedule;
 	}
 
@@ -157,7 +166,7 @@ class Schedule{
 
 		// Replaces all course codes with a link to the course webpage. 
 		foreach ($uniqueMatches as $match) {
-		$course = $this->getCoursePageURL($match);	
+			$course = $this->getCoursePageURL($match);	
 			if ($course != ""){
 				$replacement = "<div class=\"c \"><a href=\"$course\" target=\"_blank\">$match</a></div>";
 				$pattern = "'<div class=\"c \">$match</div>'";
@@ -179,7 +188,7 @@ class Schedule{
 		$string = ""; 
 		foreach ($array as $cell) {
 			$string = $string.$cell;
-		   }
+		}
 		return $string; 
 	}
 
@@ -191,7 +200,7 @@ class Schedule{
 			mkdir("../schedules");
 			$this->path = "../schedules";
 		}
-	 }	
+	}	
 
 
 	public function makeBackup($schedule){
@@ -235,22 +244,29 @@ class Schedule{
 	// Finds the position of the nth occurance of a string
 	public function strposOffset($search, $string, $offset)
 	{
-	    /*** explode the string ***/
-	    $arr = explode($search, $string);
-	    /*** check the search is not out of bounds ***/
-	    switch( $offset )
-	    {
-	        case $offset == 0:
-	        return false;
-	        break;
-	    
-	        case $offset > max(array_keys($arr)):
-	        return false;
-	        break;
+		/*** explode the string ***/
+		$arr = explode($search, $string);
+		/*** check the search is not out of bounds ***/
+		switch( $offset )
+		{
+			case $offset == 0:
+			return false;
+			break;
 
-	        default:
-	        return strlen(implode($search, array_slice($arr, 0, $offset)));
-	    }
+			case $offset > max(array_keys($arr)):
+			return false;
+			break;
+
+			default:
+			return strlen(implode($search, array_slice($arr, 0, $offset)));
+		}
+	}
+
+	public function isEmpty($content){
+		if ($content == "<div id=\"contents\" data-hourwidth=\"24\"> <div class=\"weekContainer\"><div id='pastDays'></div></div></div>"){
+			return true;
+		}
+		else return false;
 	}
 
 }
