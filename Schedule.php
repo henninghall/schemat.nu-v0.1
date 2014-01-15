@@ -70,7 +70,7 @@ class Schedule{
 		$schedule = $this->seperateWeeks($schedule);					// string -> array
 		$schedule = $this->removeEmptyAndPastWeeks($schedule);			// array (of weeks)
 		$schedule = $this->removeSundays($schedule);					// array (of weeks)
-		$schedule = $this->addPastDaysMarkup($schedule);			// array (of weeks)
+		$schedule = $this->addPastDaysMarkup($schedule);				// array (of weeks)
 		$schedule = $this->mergeArrayToString($schedule); 				// array -> string
 		$schedule = $this->addMissingHtmlAfterSeperation($schedule); 	// string
 		return $schedule;
@@ -78,7 +78,10 @@ class Schedule{
 
 	public function removeTopAndBottom($rawSchedule){
 		$noTopBottomSchedule[] = "";
-		preg_match("'<div id=\"contents\" data-hourwidth=\"24\">(.*?)<table cellspacing=\"0\" class=\"clearBoth customTitleObjects\">'si", $rawSchedule, $noTopBottomSchedule);
+		//preg_match("'<div id=\"contents\" data-hourwidth=\"24\">(.*?)<table cellspacing=\"0\" class=\"clearBoth customTitleObjects\">'si", $rawSchedule, $noTopBottomSchedule);
+		preg_match("'<div id=\"contents\" class=\"ewrap expandtab2content\" data-hourwidth=\"24\">(.*?)<div class=\"customTitleObjectsWrap\">'si", $rawSchedule, $noTopBottomSchedule);
+
+
 		return $noTopBottomSchedule[0];
 	}
 
@@ -123,6 +126,10 @@ class Schedule{
 		  	// removes sundays and re-adds the break which is also removed. 
 			$sundayFreeWeek = substr($week, 0, $sundayStartPos)."<br class=\"clearBoth\">";
 
+			// Changes weekday width from 14% to 16.5% beacuase we have 6 weekdays, 
+			// not 7 as timeedit. (100%/7 = 14%, 100%/6 = 16.5%)
+			$sundayFreeWeek = str_replace("14%", "140px", $sundayFreeWeek);
+
 		  	// Putting back the week to the array.
 			$sundayFreeWeeks[] = $sundayFreeWeek;
 		}
@@ -131,7 +138,7 @@ class Schedule{
 
 
 	public function seperateWeeks($rawSchedule){
-		preg_match_all("'<div class=\"weekDay\" style=\"z-index: (.*?)\">(.*?)<br class=\"clearBoth\">'si", $rawSchedule, $weekArray);
+		preg_match_all("'<div class=\"weekDay\" style=\"width: 14%; z-index: (.*?)\">(.*?)<br class=\"clearBoth\">'si", $rawSchedule, $weekArray);
 		return $weekArray[0];
 	}
 
