@@ -6,12 +6,10 @@ include("Schedule.php");
 include("Link.php");
 include("Stats.php");
 $layout = new Layout();
-?>
 
-<?php 
-$layout->printBeforeContent(); 
-$ch = new CookieHandeler;
-$ch->goToChooseCookiePageIfNoCookie();
+$layout->printBeforeContent();
+//$ch = new CookieHandler;
+//$ch->goToChooseCookiePageIfNoCookie();
 ?>
 
 <div id="topAreas">
